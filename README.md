@@ -6,7 +6,7 @@ This project is a skeleton application used to create [Essential JS 2](https://w
 
 ## Getting Started
 
-To get started you need to clone the `ej2-quickstart` repository and navigate to `ej2-quickstart` location.
+To get started you need to clone the `ej2-quickstart-webpack` repository and navigate to `ej2-quickstart` location.
 
 ```
 git clone https://github.com/SyncfusionExamples/ej2-quickstart-webpack- ej2-quickstart
